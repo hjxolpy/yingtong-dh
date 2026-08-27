@@ -1,4 +1,4 @@
-#baseURL = "https://webstack-hugo.weiyan.cc/"
+baseURL = "https://webstack-hugo.weiyan.cc/"
 languageCode          = "zh-CN"
 title                 = "盈佟导航页"
 theme                 = "WebStack-Hugo"
